@@ -1,0 +1,247 @@
+{
+        "RequestId": "shige000001111122222333334444455 ",
+        "SessionId": "shige000001111122222333334444455",
+        "Query": "播放静夜思",
+        "SkillId": "429930521365906",
+        "SkillName": "根据名字点诗",
+        "IntentId": 1111,
+        "IntentName": "播放静夜思",
+        "Slots": [
+                {
+                        "SlotName": "诗歌名字",
+                        "SlotValue": "静夜思",
+                        "NormalizeValue": "静夜思"
+                }
+        ],
+        "ClientIp": 0,
+        "Timestamp": 1639881194,
+        "Signature": "",
+        "ThirdApiId": 2
+}
+{
+        "complete": true,
+        "answer_type": "text",
+        "text_info": {
+                "short_answer": "《静夜思》-李白 床前明月光，疑是地上霜。举头望明月，低头思故乡。",
+                "full_answer": null
+        },
+        "audio_info": null,
+        "complex_info": null,
+        "control": null
+}
+
+
+
+—————————————————————————————————————————————————————————————————————————————————————————————————————
+
+{
+        "RequestId": "shige000001111122222333334444455 ",
+        "SessionId": "shige000001111122222333334444455",
+        "Query": "播放李白的诗",
+        "SkillId": "429930521365906",
+        "SkillName": "根据作者点诗",
+        "IntentId": 2222,
+        "IntentName": "播放李白的诗",
+        "Slots": [
+                {
+                        "SlotName": "诗歌作者",
+                        "SlotValue": "李白",
+                        "NormalizeValue": "李白"
+                }
+        ],
+        "ClientIp": 0,
+        "Timestamp": 1639881279,
+        "Signature": "",
+        "ThirdApiId": 2
+}
+{
+        "complete": true,
+        "answer_type": "text",
+        "text_info": {
+                "short_answer": "《静夜思》-李白 床前明月光，疑是地上霜。举头望明月，低头思故乡。",
+                "full_answer": null
+        },
+        "audio_info": null,
+        "complex_info": null,
+        "control": null
+}
+
+
+—————————————————————————————————————————————————————————————————————————————————————————————————————
+{
+        "RequestId": "shige000001111122222333334444455 ",
+        "SessionId": "shige000001111122222333334444455",
+        "Query": "播放论语",
+        "SkillId": "429930521365906",
+        "SkillName": "根据类别点诗",
+        "IntentId": 3333,
+        "IntentName": "播放论语",
+        "Slots": [
+                {
+                        "SlotName": "论语",
+                        "SlotValue": "",
+                        "NormalizeValue": ""
+                }
+        ],
+        "ClientIp": 0,
+        "Timestamp": 1639881382,
+        "Signature": "",
+        "ThirdApiId": 2
+}
+{
+        "complete": true,
+        "answer_type": "text",
+        "text_info": {
+                "short_answer": "子曰：“学而时习之，不亦说乎？有朋自远方来，不亦乐乎？人不知而不愠，不亦君子乎？...",
+                "full_answer": null
+        },
+        "audio_info": null,
+        "complex_info": null,
+        "control": null
+}
+
+
+
+—————————————————————————————————————————————————————————————————————————————————————————————————————
+{
+        "RequestId": "shige000001111122222333334444455 ",
+        "SessionId": "shige000001111122222333334444455",
+        "Query": "静夜思的作者是谁",
+        "SkillId": "429930521365906",
+        "SkillName": "根据名字查询作者",
+        "IntentId": 4444,
+        "IntentName": "静夜思的作者是谁",
+        "Slots": [
+                {
+                        "SlotName": "诗歌名字",
+                        "SlotValue": "静夜思",
+                        "NormalizeValue": "静夜思"
+                }
+        ],
+        "ClientIp": 0,
+        "Timestamp": 1639881482,
+        "Signature": "",
+        "ThirdApiId": 2
+}
+{
+        "complete": true,
+        "answer_type": "text",
+        "text_info": {
+                "short_answer": "《静夜思》的作者是唐代诗人李白",
+                "full_answer": null
+        },
+        "audio_info": null,
+        "complex_info": null,
+        "control": null
+}
+
+
+
+
+—————————————————————————————————————————————————————————————————————————————————————————————————————
+
+{
+        "RequestId": "shige000001111122222333334444455 ",
+        "SessionId": "shige000001111122222333334444455",
+        "Query": "低头思故乡的上一句是什么",
+        "SkillId": "429930521365906",
+        "SkillName": "根据句子查询上句",
+        "IntentId": 5555,
+        "IntentName": "低头思故乡的上一句是什么",
+        "Slots": [
+                {
+                        "SlotName": "诗歌句子",
+                        "SlotValue": "低头思故乡",
+                        "NormalizeValue": "低头思故乡"
+                }
+        ],
+        "ClientIp": 0,
+        "Timestamp": 1639881601,
+        "Signature": "",
+        "ThirdApiId": 2
+}
+{
+        "complete": true,
+        "answer_type": "text",
+        "text_info": {
+                "short_answer": "低头思故乡的上一句是举头望明月",
+                "full_answer": null
+        },
+        "audio_info": null,
+        "complex_info": null,
+        "control": null
+}
+
+
+
+
+————————————————————————————————————————————————————————————————————————————————————————————————————
+
+{
+        "RequestId": "shige000001111122222333334444455 ",
+        "SessionId": "shige000001111122222333334444455",
+        "Query": "床前明月光的下一句是什么",
+        "SkillId": "429930521365906",
+        "SkillName": "根据句子查询下句",
+        "IntentId": 6666,
+        "IntentName": "床前明月光的下一句是什么",
+        "Slots": [
+                {
+                        "SlotName": "诗歌句子",
+                        "SlotValue": "床前明月光",
+                        "NormalizeValue": "床前明月光"
+                }
+        ],
+        "ClientIp": 0,
+        "Timestamp": 1639881700,
+        "Signature": "",
+        "ThirdApiId": 2
+}
+{
+        "complete": true,
+        "answer_type": "text",
+        "text_info": {
+                "short_answer": "床前明月光的下一句是疑是地上霜",
+                "full_answer": null
+        },
+        "audio_info": null,
+        "complex_info": null,
+        "control": null
+}
+
+
+
+—————————————————————————————————————————————————————————————————————————————————————————————————————
+
+
+{
+        "RequestId": "shige000001111122222333334444455 ",
+        "SessionId": "shige000001111122222333334444455",
+        "Query": "举头望明月，低头思故乡是哪首诗",
+        "SkillId": "429930521365906",
+        "SkillName": "根据句子查询诗歌信息",
+        "IntentId": 7777,
+        "IntentName": "举头望明月，低头思故乡是哪首诗",
+        "Slots": [
+                {
+                        "SlotName": "诗歌句子",
+                        "SlotValue": "举头望明月，低头思故乡",
+                        "NormalizeValue": "举头望明月，低头思故乡"
+                }
+        ],
+        "ClientIp": 0,
+        "Timestamp": 1639882142,
+        "Signature": "",
+        "ThirdApiId": 2
+}
+{
+        "complete": true,
+        "answer_type": "text",
+        "text_info": {
+                "short_answer": "举头望明月，低头思故乡是李白的《静夜思》里的诗句",
+                "full_answer": null
+        },
+        "complex_info": null,
+        "control": null
+}
+
